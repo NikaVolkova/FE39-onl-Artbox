@@ -1,0 +1,200 @@
+.body {
+  max-width: 1604px;
+  height: 740px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.wrapper {
+  max-width: 560px;
+  margin: 0 398.72px;
+}
+
+.flower_pic {
+  width: 495.06px;
+  height: 495.06px;
+  position: absolute;
+  top: 0;
+  left: 170.42px;
+}
+
+.flex {
+  width: 808px;
+  height: 351px;
+  background: #fbf7f6;
+  border-radius: 15px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 295px;
+  left: 0;
+  box-shadow: 0 0 20px #00000026;
+}
+
+.flex .action-form_wrap {
+  font-weight: 396px;
+  height: 351px;
+  background: #fbf7f6;
+  border: 0;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-right: 32px;
+  padding-left: 40px;
+  display: flex;
+  top: 5915px;
+  left: 398.72px;
+}
+
+.flex .action-form_wrap h1 {
+  width: 324px;
+  height: 54px;
+  letter-spacing: .04em;
+  color: #371030;
+  font-family: Montserrat;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  left: 438.72px;
+}
+
+.flex .action-form_wrap .name {
+  width: 144px;
+  height: 20px;
+  letter-spacing: .04em;
+  color: #371030;
+  background-color: #0000;
+  border: 0;
+  border-bottom: 1px solid #000;
+  margin-right: 36px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  top: 6017px;
+  left: 438.72px;
+}
+
+.flex .action-form_wrap .phone {
+  width: 144px;
+  height: 20px;
+  letter-spacing: .04em;
+  background-color: #0000;
+  border: 0;
+  border-bottom: 1px solid #000;
+  margin-right: 32px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  top: 6018px;
+  left: 618.72px;
+}
+
+.flex .action-form_wrap .email {
+  width: 324px;
+  height: 20px;
+  letter-spacing: .04em;
+  color: #371030;
+  background-color: #0000;
+  border: 0;
+  border-bottom: 1px solid #000;
+  margin-right: 36px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  top: 6068px;
+  left: 438.72px;
+}
+
+.flex .action-form_wrap .comment {
+  max-width: 324px;
+  height: 20px;
+  letter-spacing: .04em;
+  color: #371030;
+  background-color: #0000;
+  border: 0;
+  border-bottom: 1px solid #000;
+  margin-right: 36px;
+  padding-bottom: 10px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  top: 6118px;
+  left: 438.72px;
+}
+
+.flex .action-form_wrap .submit {
+  text-transform: uppercase;
+  width: 324px;
+  height: 55px;
+  background: #ffb0ba;
+  border-radius: 100px;
+  margin-right: 36px;
+  padding: 14px 10.87px 40px;
+  left: 438.72px;
+  box-shadow: 3px 3px 0 3px #de8e98;
+}
+
+.flex .action-form_wrap button {
+  width: 300.08px;
+  height: 24px;
+  text-align: center;
+  letter-spacing: .04em;
+  color: #9a3c48;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 20px;
+  left: 451.76px;
+}
+
+.flex .action-form_wrap .button_link {
+  color: #9a3c48;
+  text-decoration: none;
+}
+
+.flex .action-form_wrap button ::hover, .flex .action-form_wrap button::focus, .flex .action-form_wrap button::active {
+  background: #de8e98;
+}
+
+.flex .action-form_wrap .name::-webkit-input-placeholder {
+  padding-left: 20px;
+}
+
+.flex .action-form_wrap .phone::-webkit-input-placeholder {
+  padding-left: 20px;
+}
+
+.flex .action-form_wrap .email::-webkit-input-placeholder {
+  padding-left: 20px;
+}
+
+.flex .action-form_wrap .comment::-webkit-input-placeholder {
+  padding-left: 20px;
+}
+
+.flex .cover_pic {
+  font-weight: 412px;
+  height: 351px;
+  top: 5915px;
+  left: 794.72px;
+}
+
+/*# sourceMappingURL=Artbox.38ec9247.css.map */
